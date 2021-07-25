@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="button_choose">Выбрать фильм</string>
+    <string name="hello_user">Hello, user. Choose your movie.</string>
+    <string name="textView_movie1">Movie1</string>
+    <string name="textView_movie2">Movie2</string>
 </resources>
